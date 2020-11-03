@@ -1,0 +1,231 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 23 sept. 2016, 12:42:59
+    Author     : Benoit
+*/
+html,body {
+  /* base foncé : #4471B5, rvb(68,113,181), hsl(216,45%,49%)
+     base clair : #B1CACA, rvb(177,202,202), hsl(180,19%,74%)
+     tonique : hsl(30,100%,50%)
+  */
+  box-sizing: border-box;
+  width:98%;
+  height:100%;
+  margin:auto;
+}
+body {
+  /* base foncé : #4471B5, rvb(68,113,181), hsl(216,45%,49%)
+     base clair : #B1CACA, rvb(177,202,202), hsl(180,19%,74%)
+     tonique : hsl(30,100%,50%)
+  */
+  position: absolute;
+  left:0px;
+  right:0px;
+  top:0px;
+  bottom:0px;
+  border-style:solid;
+  border-width:1px;
+  font: 18px arial, sans-serif;
+  background-color: hsl(180,19%,90%);
+}
+
+header {
+  position: absolute;
+  left:1px;
+  right:1px;
+  top:1px;
+  background-color: hsl(30,100%,50%);
+  height: 56px;
+}
+
+header nav {
+  float:right;
+}
+
+header img {
+  margin: 12px;
+}
+
+main {
+  position: absolute;
+  top:58px;
+  bottom:16px;
+  left:1px;
+  right:1px;
+  display: -webkit-flex;
+  display: flex;  
+  -webkit-flex-flow: row wrap;
+  flex-flow: row wrap;
+}
+
+main nav {
+  display: -webkit-flex;
+  display: flex;  
+  -webkit-flex-flow: column wrap;
+  flex-flow: column wrap;
+  width: 68px;
+  height: 264px;
+  /* background-color: hsl(216,45%,49%); */
+}
+
+button {
+  width: 64px;
+  height: 44px;
+  margin: 4px;
+  background-position: center; 
+  background-size: 50%;
+  background-repeat: no-repeat;
+  border-radius: 6px;
+  border: none;
+  box-shadow: 4px 4px 4px 0 rgba(0,0,0,0.5);
+  font-size: 24px
+
+}
+button.sel {
+  /* border-style: solid;
+  border-width: 6px;
+  border-color: hsl(180,19%,90%);
+  */
+  background-color: hsl(180,19%,90%);
+  margin: 8px;
+  border-width: 0px;
+  width: 68px;
+  height: 40px;
+  border-radius: 0px;
+  box-shadow: none;
+}
+
+button:active {
+  transform: translateY(2px);
+  box-shadow: none;
+}
+
+main nav > *, main section > * {
+    padding: 10px;
+    flex: 1 auto;
+}
+
+section {
+  position:absolute;
+  left:72px;
+  right:1px;
+  top:1px;
+  bottom:1px;
+  display: none;
+  /*width:412px;*/
+}
+
+section.sel {
+  display: block;
+}
+
+section h1 {
+  text-align:center;
+  color: hsl(216,45%,49%);
+  margin: 0;
+  font-size: 18px;
+}
+
+section table.index th, section table.index td {
+  font-size: 12px;
+  height: 12px;
+}
+
+section input[type="text"] {
+  color: hsl(216,45%,49%);
+  font: 24px arial, sans-serif;
+  height:32px;
+  margin-top:8px;
+}
+pre#log {
+  position:absolute;
+  bottom:1px;
+  font-size: 10px;
+  margin: 1px;
+  
+}
+
+section th, section label {
+  width: 96px;
+  height: 40px;
+  text-align: right;
+  color: hsl(216,45%,49%);
+  white-space: nowrap;
+  vertical-align: middle;
+}
+
+section button {
+  width: 40px;
+  height: 40px;
+}
+
+section input[type="text"] {
+  width: 90px;
+  height: 32px;
+  text-align: right;
+}
+
+section select {
+  width: 96px;
+  height: 40px;
+  text-align: right;
+}
+
+section canvas, section xxxdiv {
+  border-style:solid;
+  border-width:1px;
+  background-color: white;
+}
+
+.params {
+  width:70%;
+}
+.params td.comment {
+  vertical-align: middle;
+  font-style: italic;
+  padding-left: 1em;
+}
+
+.params th+td {
+  color: hsl(216,45%,49%);
+}
+
+#tab_scan                {background-image: url(img/tab_scan.svg);}
+#btn_x_m                 {background-image: url(img/btn_x_m.svg);}
+#btn_reset               {background-image: url(img/btn_reset.svg);}
+#btn_reread_usspi_params {background-image: url(img/btn_reread_usspi_params.svg);}
+#btn_pulse_cont          {background-image: url(img/btn_pulse_cont.svg);}
+#tab_path_params         {background-image: url(img/tab_path_params.svg);}
+#btn_pom                 {background-image: url(img/btn_pom.svg);}
+#tab_db                  {background-image: url(img/tab_db.svg);}
+#btn_x_p                 {background-image: url(img/btn_x_p.svg);}
+#btn_y_m                 {background-image: url(img/btn_y_m.svg);}
+#tab_usspi_params        {background-image: url(img/tab_usspi_params.svg);}
+#btn_reread_path_params  {background-image: url(img/btn_reread_path_params.svg);}
+#btn_run                 {background-image: url(img/btn_run.svg);}
+#tab_acq                 {background-image: url(img/tab_acq.svg);}
+#btn_pause               {background-image: url(img/btn_pause.svg);}
+#btn_run                 {background-image: url(img/btn_run.svg);}
+#btn_y_p                 {background-image: url(img/btn_y_p.svg);}
+#btn_apply_usspi_params  {background-image: url(img/btn_apply_usspi_params.svg);}
+#btn_send_g              {background-image: url(img/btn_send_g.svg);}
+#btn_set_org             {background-image: url(img/btn_set_org.svg);}
+#tab_home                {background-image: url(img/tab_home.svg);}
+#btn_apply_path_params   {background-image: url(img/btn_apply_path_params.svg);}
+#btn_cnx                 {background-image: url(img/btn_cnx.svg);}
+#btn_delay_m             {background-image: url(img/btn_delay_m.svg);}
+#tab_emit                {background-image: url(img/tab_emit.svg);}
+#btn_delay_p             {background-image: url(img/btn_delay_p.svg);}
+#btn_pulse_one           {background-image: url(img/btn_pulse_one.svg);}
+#btn_xy_0                {background-image: url(img/btn_xy_0.svg);}
+#xxxbtn_xy_0             {background-image: url(img/xxxbtn_xy_0.svg);}
+#tab_disp                {background-image: url(img/tab_disp.svg);}
+#btn_pulse_stop          {background-image: url(img/btn_pulse_stop.svg);}
+#btn_db_reload_file      {background-image: url(img/btn_file_reload.svg);}
+#btn_db_reload_1,#btn_db_reload_2,#btn_db_reload_3,#btn_db_reload_4,
+#btn_db_reload_5,#btn_db_reload_6,#btn_db_reload_7,#btn_db_reload_8,
+#btn_db_reload_9         {background-image: url(img/btn_db_reload.svg);}

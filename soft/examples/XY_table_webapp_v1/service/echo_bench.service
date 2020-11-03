@@ -1,0 +1,11 @@
+[Unit]
+Description=Echographic test bench server
+After=multi-user.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/python3 /home/pi/echo_bench/server/bench_server.py
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target

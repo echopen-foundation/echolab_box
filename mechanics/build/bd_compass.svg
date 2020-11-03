@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="bd_compass.svg"
+   id="svg19"
+   version="1.1"
+   viewBox="0 0 20.849699785645527 95.31505065381285"
+   height="95.31505065381285mm"
+   width="20.849699785645527mm">
+  <metadata
+     id="metadata25">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs23" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg19"
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="208.81145"
+     inkscape:cx="39.389647"
+     inkscape:zoom="2.7980891"
+     showgrid="false"
+     id="namedview21"
+     inkscape:window-height="1303"
+     inkscape:window-width="1983"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <g
+     style="fill:none"
+     transform="translate(223.586300,34.886229) scale(1,-1)"
+     id="Body025">
+    <path
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:0.2;fill-rule:evenodd"
+       stroke-width="0.35 px"
+       stroke="#191919"
+       d="M -203.4213642558298 -50.31383328026518 A 10 10 0 1 0 -213.361 -40.254L -213.36113954182923 -40.25396910305898 A 10 10 0 1 1 -203.421 -50.3138L -203.4213642558298 -50.313833280265136 Z "
+       id="Body025_f0000" />
+    <path
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:0.2;fill-rule:evenodd"
+       stroke-width="0.35 px"
+       stroke="#191919"
+       d="M -202.9410086910031 29.68472457255703 L -203.42136425582976 -50.31383328026517 L -203.4213642558298 -50.31383328026513 L -202.9410086910031 29.684724572557116 L -202.9410086910031 29.6847245725571 Z "
+       id="Body025_f0001" />
+    <path
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:0.2;fill-rule:evenodd"
+       stroke-width="0.35 px"
+       stroke="#191919"
+       d="M -212.94082842260588 29.744769018160408 A 5 5 0 1 0 -202.941 29.6847L -202.9410086910031 29.684724572557116 A 5 5 0 1 1 -212.941 29.7448L -212.94082842260588 29.744769018160433 Z "
+       id="Body025_f0002" />
+    <path
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:0.2;fill-rule:evenodd"
+       stroke-width="0.35 px"
+       stroke="#191919"
+       d="M -213.36113954182923 -40.25396910305898 L -213.36113954182923 -40.25396910305898 L -212.94082842260588 29.74476901816044 L -212.94082842260588 29.744769018160433 L -213.3611395418292 -40.253969103059056 Z "
+       id="Body025_f0003" />
+    <path
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:0.2;fill-rule:evenodd"
+       stroke-width="0.35 px"
+       stroke="#191919"
+       d="M -209.690887009835 29.725254573339285 L -210.1111981290583 -40.27348354788015 L -210.11119812905832 -40.273483547880105 L -209.69088700983497 29.725254573339377 L -209.69088700983497 29.725254573339363 Z "
+       id="Body025_f0004" />
+    <path
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:0.2;fill-rule:evenodd"
+       stroke-width="0.35 px"
+       stroke="#191919"
+       d="M -206.190950103774 29.704239017378193 L -206.190950103774 29.704239017378193 A 1.75 1.75 0 1 1 -209.691 29.7253L -209.69088700983497 29.725254573339363 A 1.75 1.75 0 0 0 -206.191 29.7042Z "
+       id="Body025_f0005" />
+    <path
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:0.2;fill-rule:evenodd"
+       stroke-width="0.35 px"
+       stroke="#191919"
+       d="M -206.61126122299737 -40.29449910384126 L -206.61126122299737 -40.29449910384126 L -206.190950103774 29.704239017378193 L -206.190950103774 29.70423901737818 L -206.6112612229973 -40.29449910384132 Z "
+       id="Body025_f0006" />
+    <path
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:0.2;fill-rule:evenodd"
+       stroke-width="0.35 px"
+       stroke="#191919"
+       d="M -210.11119812905832 -40.273483547880105 L -210.11119812905832 -40.273483547880105 A 1.75 1.75 0 1 1 -206.611 -40.2945L -206.61126122299734 -40.29449910384127 A 1.75 1.75 0 1 0 -210.111 -40.2735Z "
+       id="Body025_f0007" />
+    <circle
+       id="circle10"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"
+       stroke-width="0.35 px"
+       stroke="#191919"
+       r="5.5901699437494745"
+       cy="-50.25378883466184"
+       cx="-213.42118398743256" />
+    <circle
+       id="circle12"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"
+       stroke-width="0.35 px"
+       stroke="#191919"
+       r="5.5901699437494745"
+       cy="-50.25378883466184"
+       cx="-213.42118398743256" />
+    <circle
+       id="circle14"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"
+       stroke-width="0.35 px"
+       stroke="#191919"
+       r="5.5901699437494745"
+       cy="-50.25378883466184"
+       cx="-213.42118398743256" />
+    <title
+       id="title16">b'bd_compass'</title>
+  </g>
+</svg>
