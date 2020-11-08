@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="260mm"
-   height="220mm"
-   viewBox="0 0 260 220"
+   width="425.37213mm"
+   height="351.96469mm"
+   viewBox="0 0 425.37213 351.96469"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="all.svg">
   <defs
      id="defs2" />
@@ -25,17 +25,22 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="565.3515"
-     inkscape:cy="332.85436"
+     inkscape:cx="1237.8047"
+     inkscape:cy="924.95983"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="2452"
-     inkscape:window-height="2053"
+     inkscape:window-width="3840"
+     inkscape:window-height="2066"
      inkscape:window-x="-11"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     fit-margin-top="5"
+     fit-margin-left="5"
+     fit-margin-right="5"
+     fit-margin-bottom="5"
+     lock-margins="true" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -51,7 +56,8 @@
   <g
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(177.91992,156.66124)">
     <g
        id="Body019"
        transform="matrix(1,0,0,-1,-70.244917,-64.871558)"
